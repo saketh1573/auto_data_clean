@@ -36,7 +36,7 @@ git clone https://github.com/saketh1573/auto_data_clean
 
 
 2. **Run the Code:**
-- Execute the `main.py` script.
+- Execute the `fill_null_values.ipynb` script.
 
 3. **Follow the Prompts:**
 - Enter the path to the CSV file containing your data when prompted.
