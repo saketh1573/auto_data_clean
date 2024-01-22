@@ -57,6 +57,6 @@ git clone https://github.com/saketh1573/auto_data_clean
 
 ## Contributors
   -  [Sai Saketh Motamarry ](https://github.com/saketh1573)
-  - Snehasri Motamarri 
-  - Himasri Bandaru
+  - [Snehasri Motamarri](https://github.com/sneha22004) 
+  - [Himasri Bandaru](https://github.com/Himasribandaru)
   - Cheeli Deepthi
